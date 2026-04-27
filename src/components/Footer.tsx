@@ -31,7 +31,7 @@ const Footer = () => {
                 Mitesh <span>Soni</span>
               </div>
               <div className="footer-brand-tagline">
-                Web Developer & Full Stack Developer
+                Full Stack Web Developer
               </div>
             </div>
 
@@ -57,7 +57,7 @@ const Footer = () => {
                   <i className="fa-brands fa-github" />
                 </a>
                 <a
-                  href="tel:+8000215545"
+                  href="tel:+9588030800"
                   className="social-btn"
                   aria-label="Phone"
                 >
