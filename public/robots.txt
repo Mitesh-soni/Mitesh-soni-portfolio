@@ -1,0 +1,13 @@
+# Allow all bots to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow admin and private pages if any
+Disallow: /admin
+Disallow: /private
+
+# Specify the sitemap location
+Sitemap: https://miteshsoni.online/sitemap.xml
+
+# Crawl delay (optional - set to 1 second for better server management)
+Crawl-delay: 1
